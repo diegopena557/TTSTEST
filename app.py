@@ -20,13 +20,13 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('En un rincón de la soleada Mancha, de cuyo nombre no quiero acordarme, vivía no ha mucho un hidalgo minino de los de zarpazo limpio, bigotes largos y maullido altanero. Tenía en su alacena más ratones soñados que ratones cazados, y en su cama más siestas que batallas.
-
-Llamábase don Quijote de la Zarpa, aunque en su casa lo conocían como el gato Alonso. Pasaba los días entre montones de historias sobre caballeros felinos que desfacían entuertos en callejones y azoteas, y por las noches velaba armas que no eran más que viejos collares deshilachados y cascabeles oxidados.
-
-No le acompañaba dama de carne y hueso, sino la imagen en su recuerdo de la más airosa gata del barrio, a quien llamaba Dulcinea de las Ratunas. Por ella suspiraba en cada maullido, convencido de que ningún gato jamás había lamido con tanto garbo el dorso de su pata.
-
-Y así, un día cualquiera, después de rascar con furia el respaldo de una silla, decidió lanzarse al mundo con su fiel compañero Sancho Gatza, un panza redonda y bonachón gato de corral, que prefería las sardinas a las aventuras, pero que no supo negarse cuando don Quijote lo llamó a maullar hazañas.'
+st.write('En un rincón de la soleada Mancha, de cuyo nombre no quiero acordarme, vivía no ha mucho un hidalgo minino de los de zarpazo limpio, bigotes largos y maullido altanero. Tenía en su alacena más ratones soñados que ratones cazados, y en su cama más siestas que batallas.'
+''
+'Llamábase don Quijote de la Zarpa, aunque en su casa lo conocían como el gato Alonso. Pasaba los días entre montones de historias sobre caballeros felinos que desfacían entuertos en callejones y azoteas, y por las noches velaba armas que no eran más que viejos collares deshilachados y cascabeles oxidados.'
+''
+'No le acompañaba dama de carne y hueso, sino la imagen en su recuerdo de la más airosa gata del barrio, a quien llamaba Dulcinea de las Ratunas. Por ella suspiraba en cada maullido, convencido de que ningún gato jamás había lamido con tanto garbo el dorso de su pata.'
+''
+'Y así, un día cualquiera, después de rascar con furia el respaldo de una silla, decidió lanzarse al mundo con su fiel compañero Sancho Gatza, un panza redonda y bonachón gato de corral, que prefería las sardinas a las aventuras, pero que no supo negarse cuando don Quijote lo llamó a maullar hazañas.'
         
         )
            
